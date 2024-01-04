@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">GliTest2</string>
+    <string name="enter_your_username">Enter Your Username</string>
+    <string name="login">Login</string>
+    <string name="username_anda">Username Anda</string>
+    <string name="password_anda">Password Anda</string>
+    <string name="masuk">MASUK</string>
 </resources>
